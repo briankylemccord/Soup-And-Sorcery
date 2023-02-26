@@ -5,7 +5,7 @@
 > [!infobox]
 > # `=this.file.name` (`=this.pronouns`)
 > **Pronounced:**  "`=this.Pronounced`"
-> ![LimoneyrsKrebShackKreb.jpeg|cover hm-sm](/img/user/Attachments/Images/LimoneyrsKrebShackKreb.jpeg)
+> ![LimoneyrsKrebShackKreb.jpeg](/img/user/Attachments/Images/LimoneyrsKrebShackKreb.jpeg)
 > ---
 > ###### Meta
 >  |
