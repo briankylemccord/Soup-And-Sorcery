@@ -3,7 +3,7 @@
 ---
 
 ## About Kyle
-Kyle McCord is one of the players in the [Soup & Sorcery](Home.md) group. He also maintains this vault. Why is he writing about himself in third person? He has no idea.
+Kyle McCord is one of the players and GMs in the [[Home\|Soup & Sorcery]] group. He also maintains this vault. Why is he writing about himself in third person? He has no idea.
 
 Kyle runs multiple D&D5E campaigns in his homebrew setting of [Limoneyrs](Settings/Limoneyrs/Limoneyrs.md), a strange setting full of many wacky worlds and interesting inhabitants. He is considering moving some of these campaigns into the GURPS system.
 
