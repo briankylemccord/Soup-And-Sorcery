@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/settings/limoneyrs/limoneyrs/"}
+{"tag":"Setting","Creator":"Kyle McCord","System":"D&D5e","Pronounced":"Lemon-heiress","Genre":"Various","fc-calendar":null,"fc-date":null,"dg-publish":true,"css":null,"permalink":"/settings/limoneyrs/limoneyrs/","dgPassFrontmatter":true}
 ---
 
 
@@ -12,11 +12,13 @@
 >   |
 > ---|---|
 > **Creator** | `=this.creator` 
-> **Setting** | `=this.setting` |
-> **Campaign** | `=this.campaign` |
+> **Campaigns** | `=this.campaign` |
 > **System** | `=this.system`
+> **Genres** | `=this.genre`
 > ---
 
+---
+# Description
+Limoneyrs is [[Players/Core Group/Kyle McCord\|Kyle McCord]]'s game setting for his D&D game. It is a strange alien universe full of many star systems, each with different factions, planets, and characters. This universe was created during play by [[Settings/Limoneyrs/Characters/PCs/Bela Rrorstar/Bela Rrorstar\|Eyrs Thonich]]’s [[Settings/Limoneyrs/Events/The Wish\|Wish]] and is named after her and [[Settings/Limoneyrs/Characters/NPCs/Limonar the Light\|Limonar the Light]], a multiversal entity who used her wish to build the new universe out of the scattered fragments of a demolished multiverse.
 
-
-Limoneyrs is [Kyle McCord](Kyle%20McCord.md)'s game setting for his D&D game. It is a universe created by [The Wish](The%20Wish.md) and is named for [Eyrs Thonich](Bela%20Rrorstar.md) and [Limonar the Light](Settings/Limoneyrs/Characters/NPCs/Limonar%20the%20Light.md).
+Naturally, Limoneyrs is a strange mix of contradictory genres and locations which would’ve otherwise been found in very different realities. Whether you enjoy fantasy, horror, science fiction, westerns, crime noir, or dinosaurs - it can all be found in Limoneys! Sometimes all at once.
