@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/settings/limoneyrs/characters/np-cs/kreb-shenker-limoneyrs/"}
+{"tag":"NPC","Pronouns":"He/Him","Setting":"[[Limoneyrs]]","Reality":"[[Limoneyrs]]","System":"[[D&D5e]]","Counterpart":"[[Kreb Shenker]]","Art":"![](/img/user/Attachments/Images/LimoneyrsKrebShackKreb.jpeg)","dg-publish":true,"permalink":"/settings/limoneyrs/characters/np-cs/kreb-shenker-limoneyrs/","dgPassFrontmatter":true}
 ---
 
 > [!infobox]
