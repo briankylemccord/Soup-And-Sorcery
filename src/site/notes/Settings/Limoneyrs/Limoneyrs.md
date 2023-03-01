@@ -1,5 +1,5 @@
 ---
-{"tag":"Setting","Creator":"Kyle McCord","System":"D&D5e","Pronounced":"Lemon-heiress","Genre":"Various","fc-calendar":null,"fc-date":null,"dg-publish":true,"css":null,"permalink":"/settings/limoneyrs/limoneyrs/","dgPassFrontmatter":true}
+{"tag":"Setting","Creator":"[Kyle McCord](Kyle%20McCord.md)","System":"D&D5e","Pronounced":"Lemon-heiress","Genre":"Various","fc-calendar":null,"fc-date":null,"dg-publish":true,"css":null,"permalink":"/settings/limoneyrs/limoneyrs/","dgPassFrontmatter":true}
 ---
 
 
