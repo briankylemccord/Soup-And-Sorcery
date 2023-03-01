@@ -11,7 +11,7 @@ Our group has unique situation where nearly all of us run games. Instead of a â€
 | Name                                           | Creator                                            |
 | ---------------------------------------------- | -------------------------------------------------- |
 | [[Settings/Grinfall/Grinfall\|Grinfall]]    | \-                                                 |
-| [[Settings/Limoneyrs/Limoneyrs\|Limoneyrs]] | Kyle McCord                                        |
+| [[Settings/Limoneyrs/Limoneyrs\|Limoneyrs]] | [Kyle McCord](Kyle%20McCord.md)                    |
 | [[Settings/Primar/Primar\|Primar]]          | \-                                                 |
 | [[Settings/Zobror/Zobror\|Zobror]]          | [[Players/Core Group/Nathan Tate\|Nathan Tate]] |
 
